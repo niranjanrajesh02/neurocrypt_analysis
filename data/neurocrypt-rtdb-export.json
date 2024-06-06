@@ -7496,32 +7496,6 @@
       "misses": 125,
       "session": "AUTH1"
     },
-    "-NwYb2rAogTffLWFh2vW": {
-      "block": [
-        {
-          "gameNumber": 1,
-          "noiseMetrics": {
-            "hitRate": 0.7277777777777777,
-            "hits": 262,
-            "misses": 98
-          },
-          "passMetrics": {
-            "hitRate": 0.7777777777777778,
-            "hits": 140,
-            "misses": 40
-          },
-          "subBlockMetrics": {
-            "hitRate": 0.7444444444444445,
-            "hits": 402,
-            "misses": 138
-          }
-        }
-      ],
-      "hitRate": 0.7444444444444445,
-      "hits": 402,
-      "misses": 138,
-      "session": "AUTH1"
-    },
     "-Nwz1e7GCSVuAwjZBB4T": {
       "block": [
         {
